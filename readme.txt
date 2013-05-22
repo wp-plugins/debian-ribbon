@@ -15,18 +15,19 @@ Debian ribbon is made to promote Debian.
 
 A Debian ribbon will be put on in the top right corner of your website, linking to the [Debian](http://www.debian.org/) website.
 
-This is a fork of [Stop censorship plugin](http://wordpress.org/extend/plugins/stop-censorship-ribbon/).
+This is a fork of [Stop censorship plugin](http://wordpress.org/plugins/stop-censorship-ribbon/).
 
 How Debian ribbon looks online see at [ZPop](http://zpop.site90.net/blog/debian-ribbon/) blog.
 
 On serbian at [Zeljko Popivoda](http://zeljko.popivoda.com/debian-ribbon-wordpress-plugin) blog plugin page.
 
 My other plugins:
-* [Debian sidebar](http://wordpress.org/extend/plugins/debian-sidebar/)
-* [Debian sidebar lite](http://wordpress.org/extend/plugins/debian-sidebar-lite/)
-* [Ubuntu ribbon](http://wordpress.org/extend/plugins/ubuntu-ribbon/)
-* [Ubuntu sidebar](http://wordpress.org/extend/plugins/ubuntu-sidebar/)
-* [Ubuntu sidebar lite](http://wordpress.org/extend/plugins/ubuntu-sidebar-lite/)
+
+* [Debian sidebar](http://wordpress.org/plugins/debian-sidebar/)
+* [Debian sidebar lite](http://wordpress.org/plugins/debian-sidebar-lite/)
+* [Ubuntu ribbon](http://wordpress.org/plugins/ubuntu-ribbon/)
+* [Ubuntu sidebar](http://wordpress.org/plugins/ubuntu-sidebar/)
+* [Ubuntu sidebar lite](http://wordpress.org/plugins/ubuntu-sidebar-lite/)
 
 
 == Installation ==
