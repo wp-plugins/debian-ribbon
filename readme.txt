@@ -1,7 +1,7 @@
 === Debian ribbon ===
 Contributors: zpop
 Donate link: http://zeljko.popivoda.com/
-Tags: debian, ribbon
+Tags: linux, debian, ribbon
 Requires at least: 2.6.0
 Tested up to: 3.5
 Stable tag: 0.1
