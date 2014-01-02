@@ -1,9 +1,9 @@
 === Debian ribbon ===
 Contributors: zpop
-Donate link: http://zeljko.popivoda.com/
+Donate link: http://zeljko.popivoda.com/donacije
 Tags: linux, debian, ribbon
 Requires at least: 2.6.0
-Tested up to: 3.5
+Tested up to: 3.7
 Stable tag: 0.1
 License: GPLv2
 
@@ -19,7 +19,7 @@ This is a fork of [Stop censorship plugin](http://wordpress.org/plugins/stop-cen
 
 How Debian ribbon looks online see at [ZPop](http://zpop.site90.net/blog/debian-ribbon/) blog.
 
-On serbian at [Zeljko Popivoda](http://zeljko.popivoda.com/debian-ribbon-wordpress-plugin) blog plugin page.
+In serbian at [Zeljko Popivoda](http://zeljko.popivoda.com/debian-ribbon-wordpress-plugin) blog plugin page.
 
 My other plugins:
 
@@ -38,7 +38,7 @@ My other plugins:
 
 == Frequently Asked Questions ==
 
-If you have any questions, ask them on [Zeljko Popivoda](http://zeljko.popivoda.com/debian-ribbon-wordpress-plugin) blog plugin page.
+If you have any questions, ask them on [Željko Popivoda](http://zeljko.popivoda.com/debian-ribbon-wordpress-plugin) blog plugin page.
 
 == Screenshots ==
 
