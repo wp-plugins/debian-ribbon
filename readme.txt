@@ -19,7 +19,7 @@ This is a fork of [Stop censorship plugin](http://wordpress.org/plugins/stop-cen
 
 How Debian ribbon looks online see at [ZPop](http://zpop.site90.net/blog/debian-ribbon/) blog.
 
-In serbian at [Zeljko Popivoda](http://zeljko.popivoda.com/debian-ribbon-wordpress-plugin) blog plugin page.
+In serbian at [Željko Popivoda](http://zeljko.popivoda.com/debian-ribbon-wordpress-plugin) blog plugin page.
 
 My other plugins:
 
