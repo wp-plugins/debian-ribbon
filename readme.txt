@@ -3,7 +3,7 @@ Contributors: zpop
 Donate link: http://zeljko.popivoda.com/donacije
 Tags: linux, debian, ribbon
 Requires at least: 2.6.0
-Tested up to: 3.7
+Tested up to: 3.9.2
 Stable tag: 0.1
 License: GPLv2
 
@@ -16,8 +16,6 @@ Debian ribbon is made to promote Debian.
 A Debian ribbon will be put on in the top right corner of your website, linking to the [Debian](http://www.debian.org/) website.
 
 This is a fork of [Stop censorship plugin](http://wordpress.org/plugins/stop-censorship-ribbon/).
-
-How Debian ribbon looks online see at [ZPop](http://zpop.site90.net/blog/debian-ribbon/) blog.
 
 In serbian at [Željko Popivoda](http://zeljko.popivoda.com/debian-ribbon-wordpress-plugin) blog plugin page.
 
